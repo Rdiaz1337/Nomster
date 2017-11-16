@@ -30,8 +30,8 @@ body {
 
 .navbar-inverse .navbar-brand {
   color: #B22222;
- font-family: 'alex_brushregular', sans-serif;
- font-size: 30px;
+  font-family: 'alex_brushregular', sans-serif;
+  font-size: 30px;
 
 }
 
@@ -40,4 +40,8 @@ body {
   background-color: #FFEEEE;
   border-radius: 3px;
   padding: 2px 8px 2px 8px;
+}
+
+#map {
+  height: 300px;
 }
