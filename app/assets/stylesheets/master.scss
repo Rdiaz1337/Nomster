@@ -75,6 +75,7 @@ blockquote p {
 .carousel-inner > .carousel-item > img, .carousel-inner > .carousel-item > a > img {
   max-height: 550px;
   width: 100%;
+
 }
 
 .carousel-caption {
@@ -87,3 +88,7 @@ blockquote p {
   position: absolute;
   left: 0;
 } 
+
+.carousel {
+  box-shadow: 0px 3px 8px #2a2a2a;
+}
